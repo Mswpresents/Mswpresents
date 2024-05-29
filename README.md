@@ -1,3 +1,8 @@
+<a href="https://graph.org/file/cb3bb5ac97bdd36055521.jpg" align="center">
+    <img src="https://graph.org/file/cb3bb5ac97bdd36055521.jpg" alt="Image">
+</a>
+
+
 <h2 align="center">
     ──「 ┈━═.•°αηкυѕн уα∂αν°•.═━┈ 」──
 </h2>
@@ -8,9 +13,6 @@
 </div>
 
 
-<p align="center">
- Trust me! It's not easy to work on all of these 😒
-</p>
 
 # Community ❤️
 </p>
