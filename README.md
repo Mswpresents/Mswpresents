@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-    ──[spoiler]「 ┈━═.•°αηкυѕн уα∂αν°•.═━┈ 」[/spoiler]──
+    ──「 ┈━═.•°αηкυѕн уα∂αν°•.═━┈ 」──
 </h2>
 
 <div align="center">
