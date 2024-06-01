@@ -12,7 +12,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=550&lines= My+Name+is;Ankush+Yadav;He/him;Computer+Engineering+Student;Indian+Frontend+Dev;NDA+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer"></a>
 </div>
 
-# Community ❤️
+<spoiler># Community ❤️</spoiler>
 <p align="center">
     <a href="https://instagram.com/Alonesimpleboy_ankush?igshid=YmMyMTA2M2Y="><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
     <a href="https://telegram.me/NDALoverAnkush"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
