@@ -14,8 +14,8 @@
 
 # Community ❤️
 <p align="center">
-    <a href="https://instagram.com/Alonesimpleboy_ankush?igshid=YmMyMTA2M2Y="><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-    <a href="https://telegram.me/NDALoverAnkush"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://instagram.com/lt.ankush?igshid=YmMyMTA2M2Y="><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+    <a href="https://telegram.me/Coder_ankush"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
@@ -36,9 +36,4 @@
 ## Profile Views Counter
 <p align="center">
     <img src="https://profile-counter.glitch.me/{Mswpresents}/count.svg" alt="Visitor Count">
-</p>
-
-## YouTube 
-<p align="center">
-    <!-- Add your YouTube link here if you have one -->
 </p>
