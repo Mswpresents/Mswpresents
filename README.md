@@ -1,28 +1,18 @@
 <div align="center">
   
-  <!-- Futuristic 3D Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Ankush%20Yadav&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Code%20Artisan&descAlignY=55&descSize=25" />
-  
-  <!-- Animated Profile Image with 3D Border -->
   <a href="https://graph.org/file/cb3bb5ac97bdd36055521.jpg">
     <img src="https://graph.org/file/cb3bb5ac97bdd36055521.jpg" alt="Ankush Yadav" width="200" style="border-radius: 50%; box-shadow: 0 0 30px rgba(126, 58, 206, 0.8);">
   </a>
   
   <br><br>
-  
-  <!-- 3D Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ankush+Yadav;Passionate+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
-  
   <br>
-  
-  <!-- Futuristic Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
 </div>
 
-<!-- About Me Section with Gradient -->
 <div align="center">
   
   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif? cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
@@ -39,17 +29,12 @@
   learning:  New Technologies & Frameworks
   hobbies: [Coding, Tech Exploration, Innovation]
   ```
-  
   </div>
-  
   <br clear="both">
-  
 </div>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Tech Stack with 3D Animated Icons -->
 <div align="center">
   
   ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhiNmU0MjhhZWY3ZWUxYmZhNmM2ZjI5YzM3NDM1YzRjMzEzZTUzMCZjdD1z/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Tech Arsenal**
